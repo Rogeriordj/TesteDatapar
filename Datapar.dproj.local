@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/04 12:18:51.000.430,=C:\Users\Casa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 12:25:18.000.983,C:\Teste Datapar\Principal.pas=C:\Users\Casa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 12:25:18.000.983,C:\Teste Datapar\Principal.dfm=C:\Users\Casa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/04 12:25:29.000.548,C:\Teste Datapar\Datapar.dproj=C:\Users\Casa\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/01/04 12:28:22.000.088,=C:\Teste Datapar\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 12:29:51.000.700,C:\Teste Datapar\uCalculo.pas=C:\Teste Datapar\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 12:29:51.000.700,C:\Teste Datapar\uCalculo.dfm=C:\Teste Datapar\Unit1.dfm</Transaction>
+    <Transaction>2022/01/04 12:33:01.000.393,=C:\Teste Datapar\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 12:33:33.000.039,C:\Teste Datapar\uCalcProc.pas=C:\Teste Datapar\Unit1.pas</Transaction>
+    <Transaction>2022/01/05 00:36:08.000.047,C:\Teste Datapar\uCalcProc.pas=C:\Teste Datapar\Financiamento.pas</Transaction>
+  </Transactions>
+</BorlandProject>
